@@ -1,0 +1,21 @@
+
+
+.w5 {
+  width: 5%;
+}
+
+.anton {
+  font-family: 'Anton', sans-serif;
+  font-weight: 400;
+}
+
+
+body {
+  background-image: url('../img/azulmarino.png');
+}
+
+
+.cursiva {
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+}
